@@ -1,0 +1,19 @@
+SMAP
+roomstatus_jsp.java
+JSP
+*S JSP
+*F
++ 0 roomstatus.jsp
+roomstatus.jsp
+*L
+1,5:47
+7,5:53
+11,13:58
+23,14:71
+37:85,3
+38:88
+39,4:89,3
+43,6:101
+49:107,3
+50,8:110
+*E

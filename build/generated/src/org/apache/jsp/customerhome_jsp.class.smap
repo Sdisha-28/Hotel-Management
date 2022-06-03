@@ -1,0 +1,14 @@
+SMAP
+customerhome_jsp.java
+JSP
+*S JSP
+*F
++ 0 customerhome.jsp
+customerhome.jsp
++ 1 footer.jsp
+footer.jsp
+*L
+1,226:49
+1#1,154:274
+226#0:428,2
+*E

@@ -1,0 +1,21 @@
+SMAP
+staffinfo_jsp.java
+JSP
+*S JSP
+*F
++ 0 adminheader.jsp
+adminheader.jsp
++ 1 staffinfo.jsp
+staffinfo.jsp
+*L
+1,108:52
+1#1,6:160
+8,5:167
+12,15:172
+27:187,3
+28:190
+29,8:191,3
+37:215
+38:216,3
+39,8:219
+*E
